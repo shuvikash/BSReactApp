@@ -28,7 +28,7 @@ Command to run the server: npm start <br />
        or <br />
 Command: npm run start <br /> 
 It will start the server on configured  port(In my case, it is 8080).<br />
-5.Assuming, you have started the spring boot server. If not, go to the BSSpringBoot repository and read the README.md file to run Spring Boot project.<br/>
+5. Assuming, you have started the spring boot server. If not, go to the BSSpringBoot repository and read the README.md file to run Spring Boot project.<br/>
 6. Now, Go to the browser and type: http://localhost:8080/ <br/>
 It will show feteched users from API (http://localhost:8086/users).<br />
 <br />
