@@ -1,0 +1,39 @@
+.list{
+    border-collapse: collapse;
+    width: 100%;
+	margin:20px;
+}
+.list td, .list th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+.tableheader{
+	background-color: #ddd;
+}
+.header{
+	background-color:blue;
+	height:40px;
+	color: white;
+    padding:1px;
+	margin: 10px;
+	box-shadow: 2px 4px 12px #ededed;
+}
+
+.list tr:nth-child(even){background-color: #f2f2f2;}
+
+.list tr:hover {background-color: #ddd;}
+
+.btn-default {
+  font-family: Raleway-SemiBold;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: #ddd;
+  line-height: 20px;
+  border-radius: 40px;
+  background: transparent;
+  transition: all 0.3s ease 0s;
+  width: 9%;
+}
+.np-btn{
+	margin:22px;
+}
